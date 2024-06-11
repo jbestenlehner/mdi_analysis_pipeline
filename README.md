@@ -4,6 +4,7 @@ Spectroscopic analysis pipeline using model de-idealisation to derive physical p
 The code is presented in Bestenlehner et al. (2024): "Spectroscopic analysis of hot, massive stars in large spectroscopic surveys with de-idealized models", MNRAS, 528, 6735.
 
 Link to journal: https://academic.oup.com/mnras/article/528/4/6735/7592034
+
 DOI: https://doi.org/10.1093/mnras/stae298
 
 ## Installation
